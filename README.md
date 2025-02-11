@@ -5,5 +5,5 @@
 📚 Чем владею: Python (библиотеки Pandas, Numpy, Matplotlib, Seaborn, Plotly), SQL, Jupyter Notebook.
 
 Связь со мной:
-[📞](https://t.me/Kathryn_tk)
+[Telegram](https://t.me/Kathryn_tk)
 
